@@ -5,7 +5,7 @@ end
 introduction("Stacey")
 
 def introduction_with_language(name, attitude)
-  puts "Hi, my name is #{name} and I am learning to program in #{attitude}."
+  puts "Hi, my name is #{name} and I am #{attitude}."
 end
 
 introduction_with_language("Stacey", "Fuckin cool")
